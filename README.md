@@ -1,4 +1,4 @@
-# pulumi
+# pulumi-aws-python-quickstart
 
 Pulumi stacks on AWS with Python
 
