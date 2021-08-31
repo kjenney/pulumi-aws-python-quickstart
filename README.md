@@ -21,3 +21,10 @@ From Scratch on a new OS with Homebrew and Python via pyenv:
 12. Destroyed stack and app history:
      `aws-vault exec ken1 -- pulumi destroy`
      `pulumi stack rm dev`
+
+
+## Reproducing
+
+1. git clone repo
+2. cd into it
+3. `pulumi stack init dev`
