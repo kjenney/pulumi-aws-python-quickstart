@@ -6,7 +6,12 @@ Following: https://www.pulumi.com/docs/get-started/aws/begin/
 
 From Scratch on a new OS with Homebrew and Python via pyenv:
 
-1. `brew install pulumi`
+1. Install `pulumi`
+
+    ```bash
+    $ brew install pulumi
+    ````
+
 2. Create AWS access key for me - `aws-vault add me`
 3. Create AWS access key for ken1 - `aws-vault add ken1`
 4. `mkdir quickstart && cd quickstart`
