@@ -9,7 +9,7 @@ From Scratch on a new OS with Homebrew and Python via pyenv:
 1. Install `pulumi`
 
     ```bash
-    $ brew install pulumi
+    brew install pulumi
     ````
 
 2. Create AWS access key for me - `aws-vault add me`
