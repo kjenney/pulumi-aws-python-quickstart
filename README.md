@@ -1,6 +1,6 @@
 # pulumi-aws-python-quickstart
 
-Pulumi stacks on AWS with Python
+Pulumi stack on AWS with Python
 
 Following: https://www.pulumi.com/docs/get-started/aws/begin/
 
